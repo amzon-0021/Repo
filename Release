@@ -1,0 +1,8 @@
+Origin: Amania Repo
+Label: amania
+Suite: stable
+Codename: Darwin
+Architectures: iPhoneos-arm
+Complement: main
+Description: 廃止されたミルキーウェイなどが、入っています
+
